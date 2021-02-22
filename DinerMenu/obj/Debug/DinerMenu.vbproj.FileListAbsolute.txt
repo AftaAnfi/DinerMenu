@@ -1,0 +1,12 @@
+C:\Users\aftanom\Documents\GitHubRepos\DinerMenu\DinerMenu\DinerMenu\bin\Debug\DinerMenu.exe.config
+C:\Users\aftanom\Documents\GitHubRepos\DinerMenu\DinerMenu\DinerMenu\bin\Debug\DinerMenu.exe
+C:\Users\aftanom\Documents\GitHubRepos\DinerMenu\DinerMenu\DinerMenu\bin\Debug\DinerMenu.pdb
+C:\Users\aftanom\Documents\GitHubRepos\DinerMenu\DinerMenu\DinerMenu\bin\Debug\DinerMenu.xml
+C:\Users\aftanom\Documents\GitHubRepos\DinerMenu\DinerMenu\DinerMenu\obj\Debug\DinerMenu.vbprojAssemblyReference.cache
+C:\Users\aftanom\Documents\GitHubRepos\DinerMenu\DinerMenu\DinerMenu\obj\Debug\DinerMenu.DinerMenuForm.resources
+C:\Users\aftanom\Documents\GitHubRepos\DinerMenu\DinerMenu\DinerMenu\obj\Debug\DinerMenu.Resources.resources
+C:\Users\aftanom\Documents\GitHubRepos\DinerMenu\DinerMenu\DinerMenu\obj\Debug\DinerMenu.vbproj.GenerateResource.cache
+C:\Users\aftanom\Documents\GitHubRepos\DinerMenu\DinerMenu\DinerMenu\obj\Debug\DinerMenu.vbproj.CoreCompileInputs.cache
+C:\Users\aftanom\Documents\GitHubRepos\DinerMenu\DinerMenu\DinerMenu\obj\Debug\DinerMenu.exe
+C:\Users\aftanom\Documents\GitHubRepos\DinerMenu\DinerMenu\DinerMenu\obj\Debug\DinerMenu.xml
+C:\Users\aftanom\Documents\GitHubRepos\DinerMenu\DinerMenu\DinerMenu\obj\Debug\DinerMenu.pdb
