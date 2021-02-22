@@ -91,13 +91,14 @@ Partial Class DinerMenuForm
         Me.DisplaySpecialLabel.Name = "DisplaySpecialLabel"
         Me.DisplaySpecialLabel.Size = New System.Drawing.Size(400, 200)
         Me.DisplaySpecialLabel.TabIndex = 5
-        Me.DisplaySpecialLabel.Text = "Sample Text"
         Me.DisplaySpecialLabel.TextAlign = System.Drawing.ContentAlignment.TopCenter
         '
         'DinerMenuForm
         '
+        Me.AcceptButton = Me.SoupButton
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.CancelButton = Me.ExitButton
         Me.ClientSize = New System.Drawing.Size(800, 450)
         Me.Controls.Add(Me.DisplaySpecialLabel)
         Me.Controls.Add(Me.DinerNameLabel)
